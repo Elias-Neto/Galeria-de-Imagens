@@ -1,0 +1,80 @@
+/* RESET */
+
+*{
+    padding: 0;
+    margin: 0;
+    font-family: helvetica;
+}
+
+/* CABEÇALHO*/
+
+h1, p{
+    text-align: center;
+}
+
+h1 {
+    margin-top: 40px;
+    margin-bottom: 20px;
+    color: #27a009;
+}
+
+/* GALEIA */
+
+.container{
+    max-width: 1200px;
+    margin: auto;
+    text-align: center;
+}
+
+.card{
+    display: inline-block;
+    width: 200px;
+    margin: 25px;
+    border: 1px solid #27a009;
+}
+
+.card-image {
+    height: 200px;
+    background-size: cover;
+}
+
+.card-description {
+    padding: 20px 10px;
+}
+
+.card-1 .card-image {
+    background-image: url(../imagens/animal-1.jpg);
+}
+
+.card-2 .card-image {
+    background-image: url(../imagens/animal-2.jpg);
+}
+
+.card-3 .card-image {
+    background-image: url(../imagens/animal-3.jpg);
+}
+
+.card-4 .card-image {
+    background-image: url(../imagens/animal-4.jpg);
+}
+
+
+.btn {
+    display: block;
+    background-color: #27a009;
+    color: white;
+    margin-top: 20px;
+    text-decoration: none;
+    padding: 10px;
+    font-weight: bold;
+    border-radius: 5px;
+    border: 2px solid transparent;
+    transition: 0.5s;
+
+}
+
+.btn:hover {
+    background-color: white;
+    color: #27a009;
+    border-color: #27a009;
+}
