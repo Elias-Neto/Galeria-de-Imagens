@@ -8,7 +8,7 @@
 
 
 <h2 align="center">
-    <a href="https://elias-neto.github.io/Galeria-de-Fotos/"> Veja o Site</a>
+    <a href="https://elias-neto.github.io/Galeria-de-Imagens/"> Veja o Site</a>
 </h2>  
 <div>
 
