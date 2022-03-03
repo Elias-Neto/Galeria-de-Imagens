@@ -25,8 +25,8 @@ Esse projeto foi feito com o untuito de por em pratica o que venho aprendendo so
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-- [HTML5](https://www.w3schools.com/html/)
-- [CSS3](https://www.w3schools.com/css/default.asp)
+- [HTML](https://www.w3schools.com/html/)
+- [CSS](https://www.w3schools.com/css/default.asp)
 
 ---
 
