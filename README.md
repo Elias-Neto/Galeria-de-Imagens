@@ -16,7 +16,7 @@
 
 ## 📗 Sobre
 
-Esse projeto foi feito com o untuito de por em pratica o que venho aprendendo sobre HTML e CSS. 
+Esse projeto foi feito com o intuito de pôr em pratica o que venho aprendendo sobre HTML e CSS. 
 
 
 ---
@@ -59,4 +59,4 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 ---
 <br>
 
-<p align="center"> Desenvolvido 💚 por Elias de Araújo Ferreira Neto 👋 <p>
+<p align="center"> Desenvolvido com 💚 por Elias de Araújo Ferreira Neto 👋 <p>
