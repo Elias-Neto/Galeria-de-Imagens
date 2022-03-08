@@ -16,7 +16,7 @@
 
 ## 📗 Sobre
 
-Esse projeto foi feito com o intuito de pôr em pratica o que venho aprendendo sobre HTML e CSS. 
+A ideia do era fazer uma galeria de imagens feita em "cards" e criar botões "saiba mais" interativos 
 
 
 ---
