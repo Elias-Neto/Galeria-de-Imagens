@@ -31,6 +31,7 @@ h1 {
     width: 200px;
     margin: 25px;
     border: 1px solid #27a009;
+    box-shadow: 0 5px 8px; 
 }
 
 .card-image {
