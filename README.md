@@ -8,7 +8,7 @@
 
 
 <h2 align="center">
-    <a> Veja o Site</a>
+    <a href="https://elias-neto.github.io/Galeria-de-Imagens/"> Veja o Site</a>
 </h2>  
 <div>
 
@@ -16,7 +16,7 @@
 
 ## 📗 Sobre
 
-Esse projeto foi feito com o untuito de por em pratica o que venho aprendendo sobre HTML e CSS. 
+A ideia do era fazer uma galeria de imagens feita em "cards" e criar botões "saiba mais" interativos 
 
 
 ---
@@ -25,8 +25,8 @@ Esse projeto foi feito com o untuito de por em pratica o que venho aprendendo so
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-- [HTML5](https://www.w3schools.com/html/)
-- [CSS3](https://www.w3schools.com/css/default.asp)
+- [HTML](https://www.w3schools.com/html/)
+- [CSS](https://www.w3schools.com/css/default.asp)
 
 ---
 
@@ -59,4 +59,4 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 ---
 <br>
 
-<p align="center"> Desenvolvido 💚 por Elias de Araújo Ferreira Neto 👋 <p>
+<p align="center"> Desenvolvido com 💚 por Elias de Araújo Ferreira Neto 👋 <p>
