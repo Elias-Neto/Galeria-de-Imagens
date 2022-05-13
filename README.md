@@ -16,7 +16,7 @@
 
 ## 📗 Sobre
 
-A ideia do era fazer uma galeria de imagens feita em "cards" e criar botões "saiba mais" interativos 
+A ideia é um site de galeria de imagens feita em "cards" e criar botões "saiba mais" interativos 
 
 
 ---
